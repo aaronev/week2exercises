@@ -1,4 +1,4 @@
-.navigation li {
+.navigation li a {
 	display: inline-block;
 	color: tomato;
 	text-decoration: none;
