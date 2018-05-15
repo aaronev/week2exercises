@@ -1,4 +1,6 @@
 header {
+  border: solid;
 	height: 800px;
-	background-image: url("img/raindrops.jpg");
+  width: auto;
+  background-image: url('../img/raindrops.jpg');
 }
